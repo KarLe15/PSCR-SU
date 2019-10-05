@@ -5,4 +5,6 @@
 <ul>
     <li>TME 1 : </li>
     <p>Bases of C++;  Creation of String class to manipulate OO features</p>
+    <li>TME 2 : </li>
+    <p>Introduction of the Standard Library of C++ (< algorithm> < vector> < list> .. </p>
 </ul>
